@@ -44,3 +44,5 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'spirit_fingers'
 end
+
+ruby '2.3.1'
